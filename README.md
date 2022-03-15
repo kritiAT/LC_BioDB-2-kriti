@@ -1,3 +1,3 @@
 # 2-Kriti
 
-TEST
+Day 1 - TEST
