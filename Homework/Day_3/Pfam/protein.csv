@@ -1,0 +1,12 @@
+id,accession,description,taxid,family_accession
+X6P775_RETFI,X6P775,Tubulin alpha chain,46433,PF00091
+W6XY45_COCCA,W6XY45,Gamma-tubulin,930089,PF00091
+B7KI31_GLOC7,B7KI31,zinc_ribbon_2 domain-containing protein,65393,PF13809
+V4L4I8_9GAMM,V4L4I8,VWFA domain-containing protein,1385625,PF13809
+R9AA50_WALI9,R9AA50,Fumarate hydratase,1299270,PF10644
+A0A556U8F7_BAGYA,A0A556U8F7,Maternal embryonic leucine zipper kinase,175774,PF02149
+Q6RXY1_MAIZEQ6RXY1,Q6RXY1,Non-specific serine/threonine protein kinase,4577,PF02149
+T1KCF8_TETURT1KCF8,T1KCF8,Protein kinase domain-containing protein,32264,PF16579
+A0A6I9IMU7_VICPAA0A6I9IMU7,A0A6I9IMU7,keratin-associated protein 4-3-like,30538,PF01500
+A0A6J0APB3_VICPAA0A6J0APB3,A0A6J0APB3,keratin-associated protein 10-1-like,30538,PF05287
+A0A7N5JVJ5_AILMEA0A7N5JVJ5,A0A7N5JVJ5,Uncharacterized protein,9646,PF05287

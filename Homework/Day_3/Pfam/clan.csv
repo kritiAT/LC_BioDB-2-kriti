@@ -1,0 +1,4 @@
+id,accession,description,families
+KA1-like,CL0573,Kinase associated domain 1-like,"AdenylateSensor,KA1,NAF,NAM-associated"
+Keratin_assoc,CL0520,Keratin_associated superfamily,"Keratin_B2,Keratin_B2_2,PMG"
+Tubulin,CL0566,"Tubulin nucleotide-binding domain-like, GTPase","Misat_Tub_SegII,Tubulin,Tubulin_2,Tubulin_3"
